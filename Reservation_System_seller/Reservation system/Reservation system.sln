@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bottom_Class", "..\Bottom_Class1\Bottom_Class.csproj", "{52365802-AAAC-4135-9D43-0C194E377401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Front_End_Class", "..\Front_End_Class\Front_End_Class.csproj", "{9B0AF1D3-9264-42AF-8180-1FB57C53B348}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "订餐系统商家端", "订餐系统商家端\订餐系统商家端.vdproj", "{83B3D87D-964F-446F-B2EF-777FD19D4CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52365802-AAAC-4135-9D43-0C194E377401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52365802-AAAC-4135-9D43-0C194E377401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52365802-AAAC-4135-9D43-0C194E377401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52365802-AAAC-4135-9D43-0C194E377401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0AF1D3-9264-42AF-8180-1FB57C53B348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0AF1D3-9264-42AF-8180-1FB57C53B348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0AF1D3-9264-42AF-8180-1FB57C53B348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0AF1D3-9264-42AF-8180-1FB57C53B348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B3D87D-964F-446F-B2EF-777FD19D4CDE}.Debug|Any CPU.ActiveCfg = Debug
+		{83B3D87D-964F-446F-B2EF-777FD19D4CDE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1704933-59AD-40C6-9493-EB6DC23759A3}
+	EndGlobalSection
+EndGlobal
