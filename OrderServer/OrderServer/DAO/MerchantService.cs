@@ -115,6 +115,7 @@ namespace OrderServer.DAO
                 foreach(OrderItem orderItem in order.OrderItems)
                 {
                     orderItem.Cuisine = orderDB.Cuisines.First(op => op.Id == orderItem.CuisineId);
+                    orderItem.CuisineName = orderItem.Cuisine.Name;
                 }
             return orders;
         }
@@ -127,6 +128,7 @@ namespace OrderServer.DAO
                 foreach (OrderItem orderItem in order.OrderItems)
                 {
                     orderItem.Cuisine = orderDB.Cuisines.First(op => op.Id == orderItem.CuisineId);
+                    orderItem.CuisineName = orderItem.Cuisine.Name;
                 }
             return orders;
         }
@@ -140,6 +142,7 @@ namespace OrderServer.DAO
                 foreach (OrderItem orderItem in order.OrderItems)
                 {
                     orderItem.Cuisine = orderDB.Cuisines.First(op => op.Id == orderItem.CuisineId);
+                    orderItem.CuisineName = orderItem.Cuisine.Name;
                 }
             return orders;
         }
@@ -213,6 +216,7 @@ namespace OrderServer.DAO
                 foreach (OrderItem orderItem in order.OrderItems)
                 {
                     orderItem.Cuisine = orderDB.Cuisines.First(op => op.Id == orderItem.CuisineId);
+                    orderItem.CuisineName = orderItem.Cuisine.Name;
                 }
             return orders;
         }
@@ -225,6 +229,7 @@ namespace OrderServer.DAO
                 foreach (OrderItem orderItem in order.OrderItems)
                 {
                     orderItem.Cuisine = orderDB.Cuisines.First(op => op.Id == orderItem.CuisineId);
+                    orderItem.CuisineName = orderItem.Cuisine.Name;
                 }
             return orders;
         }

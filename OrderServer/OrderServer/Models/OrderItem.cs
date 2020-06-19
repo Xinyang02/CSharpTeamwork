@@ -15,6 +15,7 @@ namespace OrderServer.Models
         public int CuisineId { get; set; }
         [NotMapped]
         public Cuisine Cuisine { get; set; }
+        public string CuisineName { get; set; }
         public int OrderId { get; set; }
         [JsonIgnore]
         [IgnoreDataMember]

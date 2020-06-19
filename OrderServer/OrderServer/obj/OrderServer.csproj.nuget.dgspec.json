@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djw\\Desktop\\OrderServer\\OrderServer\\OrderServer.csproj": {}
+    "E:\\OrderServer\\OrderServer\\OrderServer\\OrderServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djw\\Desktop\\OrderServer\\OrderServer\\OrderServer.csproj": {
+    "E:\\OrderServer\\OrderServer\\OrderServer\\OrderServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djw\\Desktop\\OrderServer\\OrderServer\\OrderServer.csproj",
+        "projectUniqueName": "E:\\OrderServer\\OrderServer\\OrderServer\\OrderServer.csproj",
         "projectName": "OrderServer",
-        "projectPath": "C:\\Users\\djw\\Desktop\\OrderServer\\OrderServer\\OrderServer.csproj",
+        "projectPath": "E:\\OrderServer\\OrderServer\\OrderServer\\OrderServer.csproj",
         "packagesPath": "C:\\Users\\djw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djw\\Desktop\\OrderServer\\OrderServer\\obj\\",
+        "outputPath": "E:\\OrderServer\\OrderServer\\OrderServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\djw\\AppData\\Roaming\\NuGet\\NuGet.Config",
