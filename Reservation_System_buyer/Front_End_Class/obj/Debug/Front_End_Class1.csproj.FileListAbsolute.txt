@@ -1,0 +1,14 @@
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class1.csprojAssemblyReference.cache
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.Customer_Form.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.Info_Form.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.OrderList_Form.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.Shoping_Form.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.Login_Form.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.Details_Form.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\订餐系统.Submit_Form.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.Properties.Resources.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.Tip.resources
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class1.csproj.GenerateResource.cache
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class1.csproj.CoreCompileInputs.cache
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.exe
+D:\代码库\Reservation_System\Front_End_Class\obj\Debug\Front_End_Class.pdb
